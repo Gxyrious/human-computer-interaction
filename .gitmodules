@@ -1,0 +1,12 @@
+[submodule "lab1.1-Automatic-Speech-Recognition"]
+	path = lab1.1-Automatic-Speech-Recognition
+	url = git@github.com:Gxyrious/lab1.1-Automatic-Speech-Recognition.git
+[submodule "lab2-image-retrieval"]
+	path = lab2-image-retrieval
+	url = git@github.com:Gxyrious/lab2-image-retrieval.git
+[submodule "lab3-data-visualization"]
+	path = lab3-data-visualization
+	url = git@github.com:Gxyrious/lab3-data-visualization.git
+[submodule "lab4-JSL-guide"]
+	path = lab4-JSL-guide
+	url = git@github.com:Gxyrious/lab4-JSL-guide.git
